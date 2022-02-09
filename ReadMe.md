@@ -60,5 +60,6 @@
 	- Data : Raw_data
 	- MapReduce : Mapreduce와 관련된 JAR 파일과 해당 자바 파일
 	- Maria_to_Mongo : EC2 내의 MariaDB에서 로컬 환경의 MongoDB로 데이터 전송을 할 때 쓰는 자바 프로젝트
+	- FrontWeb : JavaScript에서 몽고DB의 데이터를 Aggregate해서 가져오는 것을 실패하여 사용하지 못했지만 프로젝트 중 구성했던 프론트엔드 디렉토리
 	- Spring_Mongo : Spring 프로젝트
 	- Markdown_Image : Markdown 이미지
