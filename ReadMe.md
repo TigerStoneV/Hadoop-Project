@@ -19,8 +19,9 @@
    ![dataflow](./Markdown_Image/dataflow.png)
     
 - Spring을 통한 Web 구현
+    ![KakaoTalk_Photo_2022-02-23-09-36-01](https://user-images.githubusercontent.com/89174775/155243482-8ca41bb2-30cc-4fbd-9eab-2423a9160764.png)
+
     
-    ![web](./Markdown_Image/dataflow.png)
     
     - AWS EC2
         - 하둡 3.2.2
